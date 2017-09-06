@@ -1,1 +1,0 @@
-The set of programs in this folder is used to Connect to a specific BLE OBD device
